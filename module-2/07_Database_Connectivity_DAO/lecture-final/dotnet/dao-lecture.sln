@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldGeography", "WorldGeography\WorldGeography.csproj", "{95EFD4F4-3604-4596-B345-AA2271A26378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95EFD4F4-3604-4596-B345-AA2271A26378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EFD4F4-3604-4596-B345-AA2271A26378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EFD4F4-3604-4596-B345-AA2271A26378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EFD4F4-3604-4596-B345-AA2271A26378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B9EA8E-151A-445E-91FA-45144A1C82D6}
+	EndGlobalSection
+EndGlobal

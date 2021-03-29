@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/m02d16-authentication-exercise-client.iml" filepath="$PROJECT_DIR$/client/m02d16-authentication-exercise-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/m02d16-authentication-exercise-server.iml" filepath="$PROJECT_DIR$/server/m02d16-authentication-exercise-server.iml" />
+    </modules>
+  </component>
+</project>

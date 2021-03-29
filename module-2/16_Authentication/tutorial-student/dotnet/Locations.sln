@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationsServer", "LocationsServer\LocationsServer.csproj", "{74297499-FAE5-4A75-8736-DDDD4A2CFAC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationsClient", "LocationsClient\LocationsClient.csproj", "{F602FB6B-CBD8-41FC-AD99-FF17D917E0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74297499-FAE5-4A75-8736-DDDD4A2CFAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74297499-FAE5-4A75-8736-DDDD4A2CFAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74297499-FAE5-4A75-8736-DDDD4A2CFAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74297499-FAE5-4A75-8736-DDDD4A2CFAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F602FB6B-CBD8-41FC-AD99-FF17D917E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F602FB6B-CBD8-41FC-AD99-FF17D917E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F602FB6B-CBD8-41FC-AD99-FF17D917E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F602FB6B-CBD8-41FC-AD99-FF17D917E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58877FB8-340C-4AEC-8404-67E900FA6F91}
+	EndGlobalSection
+EndGlobal

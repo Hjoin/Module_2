@@ -1,0 +1,53 @@
+{
+  "auctions": [
+    {
+      "id": 1,
+      "title": "Bell Computer Monitor",
+      "description": "4K LCD monitor from Bell Computers, HDMI & DisplayPort",
+      "user": "Queenie34",
+      "currentBid": 100.39
+    },
+    {
+      "id": 2,
+      "title": "Pineapple Smart Watch",
+      "description": "Pears with Pineapple ePhone",
+      "user": "Miller.Fahey",
+      "currentBid": 377.44
+    },
+    {
+      "id": 3,
+      "title": "Mad-dog Sneakers",
+      "description": "Soles check. Laces check.",
+      "user": "Cierra_Pagac",
+      "currentBid": 125.23
+    },
+    {
+      "id": 4,
+      "title": "Annie Sunglasses",
+      "description": "Keep the sun from blinding you",
+      "user": "Sallie_Kerluke4",
+      "currentBid": 69.67
+    },
+    {
+      "id": 5,
+      "title": "Byson Vacuum",
+      "description": "Clean your house with a spherical vacuum",
+      "user": "Lisette_Crist",
+      "currentBid": 287.73
+    },
+    {
+      "id": 6,
+      "title": "Fony Headphones",
+      "description": "Listen to music, movies, games and not bother people around you!",
+      "user": "Chester67",
+      "currentBid": 267.38
+    },
+    {
+      "id": 7,
+      "title": "Molex Gold Watch",
+      "description": "Definitely not fake gold watch",
+      "user": "Stuart27",
+      "currentBid": 188.39
+    }
+  ]
+}

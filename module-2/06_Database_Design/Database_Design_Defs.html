@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1><em>Normalization</em> is the process of organizing a database to reduce data redundancy and improve data integrity.</h1>
+
+    <h2>In<em> 1NF </em> no table should contain duplicative columns that one could use to get other types of information. 
+        Every table should be organized in rows with primary keys that uniquely identify it.
+    </h2>
+    
+    <h2>In<em> 2NF </em> the table must be in 1NF and any non-key attribute must be dependent on the primary key.</h2>
+    <h2>In<em> 3NF </em> the table must be in 2NF and there is no transitive functional dependency.</h2>
+    <h3>This means that if A is dependent on B and B is dependent on C therefore C is transitively dependent on A.</h3>
+
+    <h1><em>DDL</em> (Database Definition Language) is used to create and define database structures similar to how DML is used to manipulate and query data.</h1>
+    <h2>A <em>schema</em> is a skeleton structure of the database that focuses on the tables and constraints, not the data.</h2>
+
+    <h1><em>DCL</em> (Data Control Language) is used to create users, drop users, grant privileges and revoke privileges. </h1>
+</body>
+
+</html>
+
+<style>
+    h1,
+    h2,
+    h3,
+    li {
+        color: #006bb6;
+        font-weight: normal;
+        padding: 3px 3px 3px 6px;
+        border-left: 3px solid #c6c1b8;
+        background: #f2efe9;
+        width: 60%;
+
+    }
+
+    h2, h3, li {
+        margin-left: 3%;
+    }
+</style>
